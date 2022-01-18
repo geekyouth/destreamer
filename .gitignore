@@ -1,4 +1,3 @@
-.*
 *.txt
 *.log
 *.js
@@ -10,3 +9,6 @@ videos
 release
 build
 yarn.lock
+
+.idea/
+.token_cache
